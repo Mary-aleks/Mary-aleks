@@ -17,5 +17,10 @@ You can click the Preview link to take a look at your changes.
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-flat&logo=Matplotlib&logoColor=black)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-flat&logo=scipy&logoColor=%white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-%23F05033.svg?style=for-the-flat&logo=ClickHouse&logoColor=white)
+
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Airflow&logoColor=white)
+
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-flat&logo=git&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-%23F05033.svg?style=for-the-flat&logo=ClickHouse&logoColor=white)

@@ -18,4 +18,4 @@ You can click the Preview link to take a look at your changes.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-flat&logo=Matplotlib&logoColor=black)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-flat&logo=scipy&logoColor=%white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-flat&logo=git&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-flat&logo=git&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-%23F05033.svg?style=for-the-flat&logo=ClickHouse&logoColor=white)

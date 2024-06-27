@@ -37,10 +37,12 @@
   </thead>
   <tbody>
    <tr>
-      <td>is0qsоооооо оорпавнрршгпнее впаонепщгз шшпнкг6каj
+      <td>Приложение знакомств
       </td>
-      <td style="border: 1px solid rgb(0, 0, 0);">mt4veq</td>
-      <td style="border: 1px solid rgb(0, 0, 0);">jlbo8</td>
+      <td style="border: 1px solid rgb(0, 0, 0);">EDA, выбор и расчет продуктовых метрик, анализ результатов А/B-теста</td>
+      <td style="border: 1px solid rgb(0, 0, 0);">Python (pandas, numpy, pingouin, seaborn,scipy.stats, matplotlib) А/В тестирование
+
+</td>
     </tr>
     <tr>
       <td style="border: 1px solid rgb(0, 0, 0);">uswszx0n</td>

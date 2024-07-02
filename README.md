@@ -1,10 +1,10 @@
 <h2 align="center">Привет,меня зовут Мария
 <h4 align="center">  
-<a href="https://htmlacademy.ru">
+<a href="mailto:barabanshchikova@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-%23316192.svg?style=for-the-badge&logo=gmail&logoColor=white"  alt="Gmail">
 </a>
-  <a href="https://htmlacademy.ru">
-  <img src="https://img.shields.io/badge/Telegram-%23316192.svg?style=for-the-badge&logo=telegram&logoColor=white"  alt="Telegram"> Mariia_aleks_b
+  <a href="https://t.me/Mariia_aleks_b">
+  <img src="https://img.shields.io/badge/Telegram-%23316192.svg?style=for-the-badge&logo=telegram&logoColor=white"  alt="Telegram"> 
 </a>
 <h3 align="left"> Обо мне</h3>
 Имея опыт в IT и в течении всей своей трудовой деятельности занимаясь анализом данных я поняла, что хочу глубже погрузиться в аналитику. Для качественного решения задач в сфере анализа данных я совершенствую навыки владения стеком, делаю проекты и улучшаю продуктовое мышление.

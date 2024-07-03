@@ -37,7 +37,7 @@
   </thead>
   <tbody>
    <tr>
-      <td>Приложение знакомств <a href="[page/new.html](https://github.com/Mary-aleks/A-B_test)">Ссылка</a>
+      <td>Приложение знакомств <a href="https://github.com/Mary-aleks/A-B_test">Ссылка</a>
       </td>
       <td style="border: 1px solid rgb(0, 0, 0);">EDA, выбор и расчет продуктовых метрик, анализ результатов А/B-теста</td>
       <td style="border: 1px solid rgb(0, 0, 0);">Python (pandas, numpy, pingouin, seaborn,scipy.stats, matplotlib) А/В тестирование
@@ -45,19 +45,19 @@
 </td>
     </tr>
     <tr>
-      <td>Приложение доставки <a href="[page/new.html](https://https://github.com/Mary-aleks/Delivery-of-products)">Ссылка</a>
+      <td>Приложение доставки <a href="https://github.com/Mary-aleks/Delivery-of-products">Ссылка</a>
       </td>
       <td style="border: 1px solid rgb(0, 0, 0);">Предварительный анализ и предобработка данных, определение гипотез для рассмотрения, проведение статистического анализа данных  двух групп.</td>
       <td style="border: 1px solid rgb(0, 0, 0);">Python ( Pandas, numpy, seaborn,scipy.stats, matplotlib)</td>
     </tr>
     <tr>
-      <td>Проект e-learning <a href="[page/new.html](https://github.com/Mary-aleks/Educational_institutions)">Ссылка</a>
+      <td>Проект e-learning <a href="https://github.com/Mary-aleks/Educational_institutions">Ссылка</a>
       </td>
       <td style="border: 1px solid rgb(0, 0, 0);">EDA, ответы на вопросы о курсах,предметах и студентах, RFM-анализ</td>
       <td style="border: 1px solid rgb(0, 0, 0);">Python (pandas, seaborn, matplotlib)</td>
     </tr>
     <tr>
-      <td>Анализ покупок пользователей в e-commerce <a href="[page/new.html](https://github.com/Mary-aleks/SQL_project)">Ссылка</a>
+      <td>Анализ покупок пользователей в e-commerce <a href="https://github.com/Mary-aleks/SQL_project">Ссылка</a>
       </td>
       <td style="border: 1px solid rgb(0, 0, 0);">Анализ продуктовых метрик (экономика продукта и маркетинговые метрики) и их визуализация</td>
       <td style="border: 1px solid rgb(0, 0, 0);">SQL, Redash</td>
